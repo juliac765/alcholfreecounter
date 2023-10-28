@@ -1,0 +1,23 @@
+.counter{
+    display: inline-block;
+    border: 2px solid black;
+    width: 75%;
+    padding: 10%;
+}
+
+.result{
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    border-radius: 1px;
+    padding-left: 5px;
+    height:30px;
+    display:flex;
+    align-items: center;
+}
+
+.result-txt{
+    font-size: 30px;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
